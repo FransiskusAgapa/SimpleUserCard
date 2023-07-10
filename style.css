@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#big-box {
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 25%;
+  border: 1px solid lightgray;
+  width: 50%;
+  height: 225px;
+}
+
+#small-box {
+  color: blue;
+  background-color: lightskyblue;
+  background-image: url(./UserIcons/samBack.jpg);
+  height: 35%;
+}
+
+/* #icon {
+  margin-top: 30px;
+  margin-left: 20px;
+  width: 70px;
+  justify-content: flex-start;
+  border-radius: 50%;
+  border: 4px solid white;
+} */
+
+#sam-icon {
+  margin-top: 40px;
+  margin-left: 20px;
+  width: 74px;
+  height: 70px;
+  border-radius: 50%;
+  border: 3px solid white;
+}
+
+#username {
+  margin-left: 10px;
+  color: black;
+}
+
+#map-marker {
+  margin-top: 72px;
+  margin-left: 10px;
+  width: 9px;
+}
+
+#city {
+  color: black;
+  margin-left: 25px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+#text {
+  margin-left: 10px;
+  margin-top: 3px;
+}
+
+#setting {
+  margin-top: 2px;
+  margin-left: 10px;
+  font-size: 10px;
+}
+
+#gear {
+  width: 6px;
+}
