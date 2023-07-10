@@ -1,5 +1,5 @@
 # SimpleUserCard
-Built simple user card
+Built a simple user card for one of my favorite singers!
 
 - Preview
 
